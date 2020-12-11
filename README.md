@@ -1,2 +1,1 @@
-# calculator.js
 # Swegga.js
